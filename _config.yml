@@ -98,11 +98,12 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/avatar/MyAvatar.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+# string, local or CORS resources
+social_preview_image: /assets/avatar/MyAvatar.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -132,10 +133,10 @@ comments:
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
-    enabled: # boolean, keep empty means false
+    enabled: true # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
-    env: # [development | production]
+    env: production# [development | production]
 
 pwa:
   enabled: true # The option for PWA feature (installable)
@@ -150,7 +151,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "huynguyen1989.github.io/me/"
 
 # ------------ The following options are not recommended to be modified ------------------
 
