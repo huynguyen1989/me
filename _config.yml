@@ -151,7 +151,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "huynguyen1989.github.io/me/"
+baseurl: "huynguyen1989.github.io/me"
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -174,7 +174,7 @@ collections:
 
 defaults:
   - scope:
-      path: "" # An empty string here means all files in the project
+      path: _posts # An empty string here means all files in the project
       type: posts
     values:
       layout: post
