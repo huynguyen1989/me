@@ -1,6 +1,6 @@
 ---
 layout: archives
-icon: fas fa-archive
+icon: fas fa-solid fa-person-walking-luggage
 order: 2
 ---
 

@@ -217,6 +217,7 @@ exclude:
   - "*.config.js"
   - package*.json
   - "_tabs/about.md"
+  - "_tabs/archives.md"
 
 jekyll-archives:
   enabled: [categories, tags]
