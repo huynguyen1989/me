@@ -1,7 +1,7 @@
 ---
 title: Rock Paper Scissors Lizard Spock - A Developer's Challenge
 description: Job's position assignment.
-author: 999999	
+author: HUYNGUYEN	
 date: 2024-08-08 12:12:00 +0800
 categories: [Blogging, Interview]
 tags: [interview, typescript]
@@ -13,8 +13,7 @@ image:
   alt: The Rules of Rock Paper Scissors Lizard Spock.
 ---
 <!-- POST-ID-1 -->
-# A Developer's Challenge[^footnote]
-{: .mt-4 .mb-0 }
+# A Developer's Challenge
 
 The classic game of Rock Paper Scissors has been a staple of playgrounds and social gatherings for generations. However, in 2005, The Big Bang Theory's Raj Koothrappali and Sheldon Cooper introduced a new twist to the game: Rock Paper Scissors Lizard Spock. This expanded version of the game adds two new hand signals, "Lizard" and "Spock," and a new set of rules to govern their interactions.
 
@@ -160,13 +159,10 @@ Number of possible cases, we can multiply the number of choices for each player
 ```
 
 
-#### Finalize
+## Finalize
 
-So, the easiest way to implement the function to detect a winner would be the 1st and 2nd options.
+So, the easiest way to implement the function to detect a winner would be the `1st` and `2nd` options.
 
-The advantage of the 3rd solution is that it allows to extend to many many choices and for a more consistent implementation of the UI and solution, but this would be more suitable for requirements that can be handled on the client's side. Some calculations would need to be placed on the server's side.
-
-To keep things simple and easy, as the assignment requires, we should choose the 1st and 2nd options to make the code more consistent, rather than opting for the complexity of the 3rd way
+The advantage of the `3rd` solution is that it allows to extend to many many choices and for a more consistent implementation of the UI and solution.
 
 
-[^footnote]: Back to top
