@@ -1,10 +1,10 @@
 ---
-title: Rock Paper Scissors Lizard Spock: A Developer's Challenge
+title: Rock Paper Scissors Lizard Spock - A Developer's Challenge
 description: Job's position assignment.
 author: 999999	
 date: 2024-08-08 12:12:00 +0800
 categories: [Blogging, Interview]
-tags: [interview]
+tags: [interview, typescript]
 pin: true
 math: true
 mermaid: true
@@ -13,12 +13,12 @@ image:
   alt: The Rules of Rock Paper Scissors Lizard Spock.
 ---
 <!-- POST-ID-1 -->
-# A Developer's Challenge
+# A Developer's Challenge[^footnote]
 {: .mt-4 .mb-0 }
 
 The classic game of Rock Paper Scissors has been a staple of playgrounds and social gatherings for generations. However, in 2005, The Big Bang Theory's Raj Koothrappali and Sheldon Cooper introduced a new twist to the game: Rock Paper Scissors Lizard Spock. This expanded version of the game adds two new hand signals, "Lizard" and "Spock," and a new set of rules to govern their interactions.
 
-As a developer, you may be wondering how to tackle this problem and create a program that can play Rock Paper Scissors Lizard Spock. In this article, we'll explore the rules of the game, discuss possible approaches to solving the problem, and provide a sample implementation in Python | Javascript.
+As a developer, you may be wondering how to tackle this problem and create a program that can play Rock Paper Scissors Lizard Spock. In this article, we'll explore the rules of the game, discuss possible approaches to solving the problem, and provide a sample implementation in Typescript.
 
 The interview assignment focuses on resolving the problem of determining the winner using various methods, and delves deep into: coding skills, code patterns, live coding, and problem-solving approaches 
 
@@ -32,7 +32,7 @@ Of couse every assignment would not be in happy path :cry:
 _Built and run_
 
 
-![Desktop View](assets/posts/2024/POST-ID-1/ScreenShot-2.jpg){: width="450" height="350" }
+![Desktop View](assets/posts/2024/POST-ID-1/ScreenShot-.jpg){: width="450" height="350" }
 _After hours of reading and fixed everything now in place_
 
 
@@ -169,7 +169,4 @@ The advantage of the 3rd solution is that it allows to extend to many many choic
 To keep things simple and easy, as the assignment requires, we should choose the 1st and 2nd options to make the code more consistent, rather than opting for the complexity of the 3rd way
 
 
-## Reverse Footnote
-
-[^footnote]: The footnote source
-[^fn-nth-2]: The 2nd footnote source
+[^footnote]: Back to top
