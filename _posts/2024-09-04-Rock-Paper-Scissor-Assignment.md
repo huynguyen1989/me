@@ -38,7 +38,7 @@ _After hours of reading and fixed everything now in place_
 
 ### Approaches to Solving the Problem
 
-1. If-Else Force 
+#### 1. If-Else Force 
 ```Typescript
 export const winner = (player1: string, player2: string): string | undefined => {
 	let winner: string = '';
@@ -68,7 +68,7 @@ export const winner = (player1: string, player2: string): string | undefined => 
 	return winner;
 };
 ```
-2. Modular Arithmetic Approach
+#### 2. Modular Arithmetic Approach
 
 ```Typescript
 import { SIGN } from 'types'
@@ -94,7 +94,7 @@ export const rules = {
 }
 ```
 
-3. Polar Coordinate System  - My approaching for more than 5 choices
+#### 3. Polar Coordinate System  - My approaching for more than 5 choices
 
 
 ```text
