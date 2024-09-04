@@ -166,6 +166,12 @@ Number of possible cases, we can multiply the number of choices for each player
 
 So, the easiest way to implement the function to detect a winner would be the `1st` and `2nd` options.
 
-The advantage of the `3rd` solution is that it allows to extend to many many choices and for a more consistent implementation of the UI and solution.
+The advantage of the `3rd` solution is that it allows to extend to many many choices and for a more consistent implementation of the UI and solution and of course it's take time 
 
+![Desktop View](assets/posts/2024/POST-ID-1/rock-paper-scissors-spock-lizard.gif){: width="972" height="589" }
+_Result_
+
+## Code Reposistory
+
+> https://github.com/huynguyen1989/rock-paper-scissor-lizard-spock
 
