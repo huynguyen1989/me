@@ -9,7 +9,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: /Users/cross/Documents/InProgress/Github_Development/me/assets/posts/2024/POST-ID-1/mobile-rules-modal-bonus.jpg
+  path: /assets/posts/2024/POST-ID-1/mobile-rules-modal-bonus.jpg
   alt: The Rules of Rock Paper Scissors Lizard Spock.
 ---
 <!-- POST-ID-1 -->
