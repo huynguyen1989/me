@@ -35,10 +35,10 @@ _Built and run_
 _After hours of reading and fixed everything now in place_
 
 
-### Approaches to Solving the Problem
+## Approaches to Solving the Problem
 
 #### 1. If-Else Force 
-```Typescript
+```typescript
 export const winner = (player1: string, player2: string): string | undefined => {
 	let winner: string = '';
 
@@ -67,7 +67,7 @@ export const winner = (player1: string, player2: string): string | undefined => 
 	return winner;
 };
 ```
-#### 2. Modular Arithmetic Approach
+#### 2. Modular Approach
 
 ```Typescript
 import { SIGN } from 'types'
@@ -81,20 +81,23 @@ export const rules = {
 }
 ```
 
-```Typescript
-import { SIGN } from 'types'
+```typescript
+export const findOutResult = (playerPick: SIGN, computerPick: SIGN): RESULT => {
+	
+	if (!playerPick) return RESULT.PLAYER_HAS_NOT_CHOSEN_YET
 
-export const rules = {
-	[SIGN.PAPER]: new Set([SIGN.ROCK, SIGN.SPOCK]),
-	[SIGN.ROCK]: new Set([SIGN.SCISSORS, SIGN.LIZARD]),
-	[SIGN.SCISSORS]: new Set([SIGN.PAPER, SIGN.LIZARD]),
-	[SIGN.LIZARD]: new Set([SIGN.SPOCK, SIGN.PAPER]),
-	[SIGN.SPOCK]: new Set([SIGN.ROCK, SIGN.SCISSORS]),
+	if (playerPick === computerPick) return RESULT.DRAW
+
+	else if (rules[playerPick].has(computerPick)) {
+		return RESULT.PLAYER_WIN
+	} else {
+		return RESULT.COMPUTER_WIN
+	}
 }
 ```
+
 
 #### 3. Polar Coordinate System  - My approaching for more than 5 choices
-
 
 ```text
 Number of possible cases, we can multiply the number of choices for each player
