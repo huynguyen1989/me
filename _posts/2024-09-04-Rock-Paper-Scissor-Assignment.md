@@ -4,7 +4,7 @@ description: Job's position assignment.
 author: HUYNGUYEN	
 date: 2024-08-08 12:12:00 +0800
 categories: [Blogging, Interview]
-tags: [interview, typescript]
+tags: [Interview, Typescript]
 pin: true
 math: true
 mermaid: true

@@ -4,7 +4,7 @@ description: Job's position assignment.
 author: HUYNGUYEN	
 date: 2024-04-07 12:12:00 +0800
 categories: [Blogging, Interview]
-tags: [interview, Golang, Typescript]
+tags: [Interview, Golang, ReactJS, VueJS]
 pin: true
 math: true
 mermaid: true
@@ -36,3 +36,6 @@ Because of the good information so I was pick 2 position are
 - Senior Software Developer (Go)
 - Senior Front end Developer (Vue) - Actually I can do this too
 
+
+> Continue..
+{: .prompt-tip }
