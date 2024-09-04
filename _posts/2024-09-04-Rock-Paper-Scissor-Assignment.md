@@ -28,15 +28,15 @@ The interview assignment focuses on resolving the problem of determining the win
 ## Capture of given assets
 
 Of couse every assignment would not be in happy path :cry:
-![Desktop View](assets/posts/2024/POST-ID-1/ScreenShot-1.jpg){: width="450" height="350" }
+![Desktop View](assets/posts/2024/POST-ID-1/ScreenShot-1.jpg){: width="972" height="589" }
 _Built and run_
 
 
-![Desktop View](assets/posts/2024/POST-ID-1/ScreenShot-.jpg){: width="450" height="350" }
+![Desktop View](assets/posts/2024/POST-ID-1/ScreenShot-2.jpg){: width="972" height="589" }
 _After hours of reading and fixed everything now in place_
 
 
-## Approaches to Solving the Problem
+### Approaches to Solving the Problem
 
 1. If-Else Force 
 ```Typescript
@@ -160,7 +160,7 @@ Number of possible cases, we can multiply the number of choices for each player
 ```
 
 
-### Finalize
+#### Finalize
 
 So, the easiest way to implement the function to detect a winner would be the 1st and 2nd options.
 
