@@ -5,14 +5,14 @@ author: HUYNGUYEN
 date: 2024-04-07 12:12:00 +0800
 categories: [Blogging, Interview]
 tags: [Interview, Golang, ReactJS, VueJS, Python, NodeJS]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:
-  path: /assets/posts/2024/POST-ID-2/HENNGE_Logo.png
+  path: /assets/posts/2024/POST-ID-3/HENNGE_Logo.png
   alt: HENNGE one company logo.
 ---
-
+<!-- POST-ID-3 -->
 ## Are you a developer who scrolls like I do
 
 As a software engineer, I often find myself drawn to the parallels between music and coding. The intricate patterns, the attention to detail, and the pursuit of perfection – all these elements resonate deeply with me. And when I listen to B.B. King's iconic song "Riding with the King", I'm struck by the ways in which this blues masterpiece echoes the principles of good software design.
@@ -23,7 +23,7 @@ Was drag through the internet and it's placed me at the door of a country with r
 
 Yeah, we'll talk about the HENNGE One A top cloud security service and organization  solutions
 
-![Desktop View](/assets/posts/2024/POST-ID-2/CapturedJobPosts.png){: width="972" height="589" }
+![Desktop View](/assets/posts/2024/POST-ID-3/CapturedJobPosts.png){: width="972" height="589" }
 _You're seeing WHAT I saw too_
 
 We was skim through the image of Hennge's job posts and we both saw many.. `numbers` and `informations` 
