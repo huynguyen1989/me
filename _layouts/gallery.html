@@ -1,0 +1,10 @@
+---
+layout: default
+folder
+---
+
+{% for image in site.static_files %}
+    {% if image.path contains 'posts/2024/POST-ID-6/artworks' %}
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+    {% endif %}
+{% endfor %}
