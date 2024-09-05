@@ -37,6 +37,12 @@ Because of the good information and the fact that my skills align with it, I pic
 
 - Senior Front end Developer (Vue) - Actually I can do this too
 
+## Assignments
 
-> Continue..
+### Senior Front end Developer (React)
+> ReactJS Assignment. <https://huynguyen1989.github.io/me/posts/>
+{: .prompt-tip }
+
+### Senior Software Developer (Go)
+ > Golang Assignment. <https://huynguyen1989.github.io/me/posts/>
 {: .prompt-tip }
