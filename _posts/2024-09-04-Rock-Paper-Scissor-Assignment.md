@@ -4,7 +4,7 @@ description: Job's position assignment.
 author: HUYNGUYEN	
 date: 2024-08-08 12:12:00 +0800
 categories: [Blogging, Interview]
-tags: [Interview, Typescript]
+tags: [Interview, Typescript, NodeJS, ReactJS]
 pin: true
 math: true
 mermaid: true
@@ -23,6 +23,7 @@ The interview assignment focuses on resolving the problem of determining the win
 
 - Front-End Framework using ReactJS
 - Back-End NodeJS and dependencies
+- Javascript transpiler: Typescript
 
 ## Capture of given assets
 
@@ -133,6 +134,12 @@ Number of possible cases, we can multiply the number of choices for each player
 
 ```css
 
+/* Items in circular position within position-error correction */
+.select-container, .items-circular--position {
+	padding: 7rem;
+	transform: rotate(-18deg)
+}
+
 /* Angles - The use of some css preprocessor would be nice for iteration*/
 .deg72 {
 	position: absolute;
@@ -164,9 +171,9 @@ Number of possible cases, we can multiply the number of choices for each player
 
 ## Finalize
 
-So, the easiest way to implement the function to detect a winner would be the `1st` and `2nd` options.
+So, the easiest way to implement the function to detect a winner would be the `1st` and `2nd` options, as they offer the best clarity and simplicity
 
-The advantage of the `3rd` solution is that it allows to extend to many many choices and for a more consistent implementation of the UI and solution and of course it's take time 
+The advantage of the `3rd` solution is that it allows to extend to many many choices and for a more consistent implementation of the UI and solution and of course it's take time and `it's out of scope`.
 
 ![Desktop View](assets/posts/2024/POST-ID-1/rock-paper-scissors-spock-lizard.gif){: width="972" height="589" }
 _Result_

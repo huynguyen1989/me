@@ -4,7 +4,7 @@ description: Job's position assignment.
 author: HUYNGUYEN	
 date: 2024-04-07 12:12:00 +0800
 categories: [Blogging, Interview]
-tags: [Interview, Golang, ReactJS, VueJS]
+tags: [Interview, Golang, ReactJS, VueJS, Python, NodeJS]
 pin: true
 math: true
 mermaid: true
@@ -13,7 +13,7 @@ image:
   alt: HENNGE one company logo.
 ---
 
-# Are you a developer who scrolls like I do
+## Are you a developer who scrolls like I do
 
 As a software engineer, I often find myself drawn to the parallels between music and coding. The intricate patterns, the attention to detail, and the pursuit of perfection – all these elements resonate deeply with me. And when I listen to B.B. King's iconic song "Riding with the King", I'm struck by the ways in which this blues masterpiece echoes the principles of good software design.
 
@@ -30,10 +30,11 @@ We was skim through the image of Hennge's job posts and we both saw many.. `numb
 
 ## Making choices
 
-Because of the good information so I was pick 2 position are 
+Because of the good information and the fact that my skills align with it, I pick two assignments from positions:
 
 - Senior Front end Developer (React)
 - Senior Software Developer (Go)
+
 - Senior Front end Developer (Vue) - Actually I can do this too
 
 
