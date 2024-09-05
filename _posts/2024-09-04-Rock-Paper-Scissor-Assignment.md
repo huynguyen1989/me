@@ -5,14 +5,14 @@ author: HUYNGUYEN
 date: 2024-08-08 12:12:00 +0800
 categories: [Blogging, Interview]
 tags: [Interview, Typescript, NodeJS, ReactJS]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:
-  path: /assets/posts/2024/POST-ID-1/mobile-rules-modal-bonus.jpg
+  path: /assets/posts/2024/POST-ID-2/mobile-rules-modal-bonus.jpg
   alt: The Rules of Rock Paper Scissors Lizard Spock.
 ---
-<!-- POST-ID-1 -->
+<!-- POST-ID-2 -->
 # A Developer's Challenge
 
 The classic game of Rock Paper Scissors has been a staple of playgrounds and social gatherings for generations. However, in 2005, The Big Bang Theory's Raj Koothrappali and Sheldon Cooper introduced a new twist to the game: Rock Paper Scissors Lizard Spock. This expanded version of the game adds two new hand signals, "Lizard" and "Spock," and a new set of rules to govern their interactions.
@@ -40,11 +40,11 @@ The interview assignment focuses on resolving the problem of determining the win
 ## Capture of given assets
 
 Of couse every assignment would not be in happy path :cry:
-![Desktop View](assets/posts/2024/POST-ID-1/ScreenShot-1.jpg){: width="972" height="589" }
+![Desktop View](assets/posts/2024/POST-ID-2/ScreenShot-1.jpg){: width="972" height="589" }
 _Built and run_
 
 
-![Desktop View](assets/posts/2024/POST-ID-1/ScreenShot-2.jpg){: width="972" height="589" }
+![Desktop View](assets/posts/2024/POST-ID-2/ScreenShot-2.jpg){: width="972" height="589" }
 _After hours of reading and fixed everything now in place_
 
 
@@ -187,7 +187,7 @@ So, the easiest way to implement the function to detect a winner would be the `1
 
 The advantage of the `3rd` solution is that it allows to extend to many many choices and for a more consistent implementation of the UI and solution and of course it's take time and `it's out of scope`.
 
-![Desktop View](assets/posts/2024/POST-ID-1/rock-paper-scissors-spock-lizard.gif){: width="972" height="589" }
+![Desktop View](assets/posts/2024/POST-ID-2/rock-paper-scissors-spock-lizard.gif){: width="972" height="589" }
 _Result_
 
 ## Code Reposistory
