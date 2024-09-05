@@ -34,15 +34,14 @@ Because of the good information and the fact that my skills align with it, I pic
 
 - Senior Front end Developer (React)
 - Senior Software Developer (Go)
-
 - Senior Front end Developer (Vue) - Actually I can do this too
 
 ## Assignments
 
-### Senior Front end Developer (React)
+#### Senior Front end Developer (React)
 > ReactJS Assignment. <https://huynguyen1989.github.io/me/posts/>
-{: .prompt-tip }
+{: .prompt-info }
 
-### Senior Software Developer (Go)
+#### Senior Software Developer (Go)
  > Golang Assignment. <https://huynguyen1989.github.io/me/posts/>
-{: .prompt-tip }
+{: .prompt-info }
