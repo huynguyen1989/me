@@ -25,6 +25,18 @@ The interview assignment focuses on resolving the problem of determining the win
 - Back-End NodeJS and dependencies
 - Javascript transpiler: Typescript
 
+## Steps to resolve
+
+```mermaid
+ flowchart TD
+    A[Assignment Assets] --> B(Read and Analyze)
+    B --> C{Approaches following given pattern}
+    C -->|1st| D[If-Else Force]
+    C -->|2nd| E[Modular Approach]
+    C -->|3rd| F[Polar Coordinate System]
+    D & E & F --> | Decision | Result
+```
+
 ## Capture of given assets
 
 Of couse every assignment would not be in happy path :cry:
