@@ -3,8 +3,8 @@ title: Rock Paper Scissors Lizard Spock - A Developer's Challenge
 description: Job's position assignment.
 author: HUYNGUYEN	
 date: 2024-08-08 12:12:00 +0800
-categories: [Blogging, Interview]
-tags: [Interview, Typescript, NodeJS, ReactJS]
+categories: [Assignments]
+tags: [Assignments, Typescript, NodeJS, ReactJS]
 pin: false
 math: true
 mermaid: true

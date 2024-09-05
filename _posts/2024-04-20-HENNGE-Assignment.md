@@ -3,8 +3,8 @@ title: HENNGE One the top cloud security services in Japan - A Developer's Chall
 description: Job's position assignment.
 author: HUYNGUYEN	
 date: 2024-04-07 12:12:00 +0800
-categories: [Blogging, Interview]
-tags: [Interview, Golang, ReactJS, VueJS, Python, NodeJS]
+categories: [Assignments]
+tags: [Assignments, Golang, ReactJS, VueJS, Python, NodeJS]
 pin: false
 math: true
 mermaid: true
@@ -19,9 +19,11 @@ As a software engineer, I often find myself drawn to the parallels between music
 
 Was drag through the internet and it's placed me at the door of a country with ranking top in wide range of technology fields - Japan
 
-> https://www.tokyodev.com/companies/hennge
+> <https://www.tokyodev.com/companies/hennge>
 
 Yeah, we'll talk about the HENNGE One A top cloud security service and organization  solutions
+
+> <https://hennge.com/global/>
 
 ![Desktop View](/assets/posts/2024/POST-ID-3/CapturedJobPosts.png){: width="972" height="589" }
 _You're seeing WHAT I saw too_

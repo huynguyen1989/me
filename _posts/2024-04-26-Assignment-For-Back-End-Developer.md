@@ -3,8 +3,8 @@ title: Assignment For Front Back-End Developer - A Developer's Challenge
 description: Job's position assignment.
 author: HUYNGUYEN	
 date: 2024-04-07 12:12:00 +0800
-categories: [Blogging, Interview]
-tags: [Interview, Golang, Python, NodeJS]
+categories: [Assignments]
+tags: [Assignments, Golang, Python, NodeJS]
 pin: false
 math: true
 mermaid: true
