@@ -11,4 +11,7 @@ mermaid: false
 image:
   path: /assets/posts/2024/POST-ID-6/FleetWoodMac.jpeg
   alt: FleetWoodMac - Rumours.
+
+media_subpath: /assets/posts/2024/POST-ID-6/artworks/
 ---
+
