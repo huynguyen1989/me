@@ -41,9 +41,9 @@ Because of the good information and the fact that my skills align with it, I pic
 ## Assignments
 
 #### Senior Front end Developer (React)
-> ReactJS Assignment. <https://huynguyen1989.github.io/me/posts/>
+> Post: <https://huynguyen1989.github.io/me/posts/Assignment-For-Front-End-Developer/>
 {: .prompt-info }
 
 #### Senior Software Developer (Go)
- > Golang Assignment. <https://huynguyen1989.github.io/me/posts/>
+ > Post: <https://huynguyen1989.github.io/me/posts/Assignment-For-Back-End-Developer/>
 {: .prompt-info }

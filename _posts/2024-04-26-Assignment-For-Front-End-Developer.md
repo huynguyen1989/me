@@ -19,14 +19,12 @@ image:
 The challenge is requires to develop a utility component that's based on VueJS and NodeJS development environment. So let's take a look through the given assets
 
 <!-- Requirement -->
-![Desktop View](/assets/posts/2024/POST-ID-3/CapturedJobPosts.png){: width="972" height="589" }
+![Desktop View](/assets/posts/2024/POST-ID-4/FE_Job.png){: width="972" height="389" }
 
 
 ## Mission 1: Implement UI elements
 
-The given challenge detailes:  `/assets/posts/2024/POST-ID-4/FE-HENNGE_Admission_Challenge.pdf`{: .filepath}.
-
-The given assets folder:  `/assets/posts/2024/POST-ID-4/challenge`{: .filepath}.
+The given challenge detailes: <https://huynguyen1989.github.io/me/assets/posts/2024/POST-ID-4/FE-HENNGE_Admission_Challenge.pdf> 
 
 ```text
 Development of an Email Audit system is currently in progress. Assume that this project is a real
@@ -47,12 +45,22 @@ that you are not allowed to modify any other file (including adding new packages
 mission.
 ```
 
-<https://huynguyen1989.github.io/me/assets/posts/2024/POST-ID-4/challenge>
-
-So I chosed VueJS as the Solution
+- So I chosed VueJS as the Solution
 
 <!-- Requirement -->
-![Desktop View](/assets/posts/2024/POST-ID-4/challenge/challenge_details/Evaluation.png){: width="972" height="389" }
+
+- Given component prototype requirements
+
+![Desktop View](/assets/posts/2024/POST-ID-4/challenge/challenge_details/Email trim example 1.svg){: width="972" height="189"}
+![Desktop View](/assets/posts/2024/POST-ID-4/challenge/challenge_details/Email trim example 2A.svg){: width="972" height="189"}
+![Desktop View](/assets/posts/2024/POST-ID-4/challenge/challenge_details/Email trim example 2B.svg){: width="972" height="189"}
+![Desktop View](/assets/posts/2024/POST-ID-4/challenge/challenge_details/Email trim example 3A.svg){: width="972" height="189"}
+![Desktop View](/assets/posts/2024/POST-ID-4/challenge/challenge_details/Email trim example 3B.svg){: width="972" height="189"}
+![Desktop View](/assets/posts/2024/POST-ID-4/challenge/challenge_details/Tooltip example 1.png){: width="972" height="189"}
+![Desktop View](/assets/posts/2024/POST-ID-4/challenge/challenge_details/Tooltip example 2.png){: width="972" height="189"}
+
+- Media view
+![Desktop View](/assets/posts/2024/POST-ID-4/challenge/challenge_details/Evaluation.png){: width="972" height="289" }
 
 ## Mission 2: Publish your source code as a secret gist
 > The implementation is considering as done due to the privacy of the assignment
@@ -84,12 +92,12 @@ So I chosed VueJS as the Solution
 }
 ```
 
-So here's the gap of the challenge that I have to generate a request following there's guide and the authentication of the request based on RFC2617 for header field `Authorization` 
+So here's the gap of the challenge that I have to generate a request following there's guide and the authentication of the request based on `RFC2617` for header field `Authorization` 
 
 ## RFC2617 standard HTTP Authentication
 
 
-- Here is a swim lane diagram of the MD5 hash calculation process in the context of RFC 2617's Digest Authentication:
+- Here is a swim lane diagram of the MD5 hash calculation process in the context of `RFC2617`'s Digest Authentication:
 
 ```mermaid
  sequenceDiagram
@@ -101,7 +109,7 @@ So here's the gap of the challenge that I have to generate a request following t
         Server->>Client: Server grants access if response is valid
 ```
 
-- According to RFC 2617, the following formulas are used to calculate the MD5 hash values:
+- According to `RFC2617`, the following formulas are used to calculate the MD5 hash values:
 ```text
 **A1**
 
@@ -155,7 +163,7 @@ Where:
 ```
 ## Finallize
 
-- After many attempts and drafts, the crafted response below matches the RFC2617 standard
+- After many attempts and drafts, the crafted response below matches the `RFC2617` standard
 
 ```text
   curl -v -X POST  \
