@@ -38,3 +38,5 @@ assets/js/dist
 *.icloud
 
 .ignoring/*
+\.DS_Store
+
