@@ -16,13 +16,18 @@ image:
 <!-- POST-ID-4 -->
 # A Developer's Challenge
 
-The challenge is requires to develop a utility component that's based on ReactJS and NodeJS development environment. So let's take a look through the given assets
+The challenge is requires to develop a utility component that's based on VueJS and NodeJS development environment. So let's take a look through the given assets
 
 <!-- Requirement -->
 ![Desktop View](/assets/posts/2024/POST-ID-3/CapturedJobPosts.png){: width="972" height="589" }
 
 
 ## Mission 1: Implement UI elements
+
+The given challenge detailes:  `/assets/posts/2024/POST-ID-4/FE-HENNGE_Admission_Challenge.pdf`{: .filepath}.
+
+The given assets folder:  `/assets/posts/2024/POST-ID-4/challenge`{: .filepath}.
+
 ```text
 Development of an Email Audit system is currently in progress. Assume that this project is a real
 project and is being used in a production environment on a trial basis, since the features are not yet
@@ -41,8 +46,6 @@ _
 that you are not allowed to modify any other file (including adding new packages) to complete this
 mission.
 ```
-
-Here is the given assets folder:  `/assets/posts/2024/POST-ID-4/challenge`{: .filepath}.
 
 <https://huynguyen1989.github.io/me/assets/posts/2024/POST-ID-4/challenge>
 
