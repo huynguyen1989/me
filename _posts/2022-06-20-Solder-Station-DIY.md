@@ -2,15 +2,15 @@
 title: DIY A Solder Station 
 description: Digital Solder Station Approach
 author: HUYNGUYEN	
-date: 2024-01-20 12:12:00 +0800
+date: 2022-01-20 12:12:00 +0800
 categories: [Blog]
-tags: [Machinist, Hobby, Blog]
+tags: [Hobby, Blog, DIY]
 pin: false
 math: false
 mermaid: false
 image:
   path: /assets/posts/2024/POST-ID-7/watch_circuit.jpg
-  alt: My scrapping pattern.
+  alt: Unknow PCB.
 ---
 
 <!-- POST-ID-7 -->
