@@ -33,23 +33,89 @@ During the COVID-19 crisis and isolation, we really needed something to learn, r
 - In the manufacture of precision parts and assemblies, especially where parts will be required to be connected across a surface area in an air-tight or liquid-tight manner, flatness is a critical quality of the manufactured surfaces. Such surfaces are usually machined or ground to achieve the required degree of flatness. Metrology of such a surface can confirm and ensure that the required degree of flatness has been achieved as a key step in a manufacturing processes.
 
 ## Hand Scraping for flatness
-![Desktop View](/assets/posts/2024/POST-ID-6/surface_scrapping.jpeg){: width="972" height="250" }
-_Full screen width and center alignment_
+- Hand scraping is a traditional metalworking technique used to remove small amounts of material from a surface, typically to achieve a precise fit or to create a smooth finish. It involves using a hand tool, called a scraper, to manually remove metal shavings from a workpiece
+Some of the benefits of hand scraping include:
 
-## Scraping Tools
-![Desktop View](/assets/posts/2024/POST-ID-6/surface_scrapping.jpeg){: width="972" height="250" }
-_Full screen width and center alignment_
+- High level of precision and control
+- Ability to work with a variety of metals and materials
+- Can be used to create complex shapes and surfaces
+- Does not require specialized equipment or machinery
+
+### Let's take a look at some guides from Switzerland and France
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapDocuments/Swiss_French_Scraping.jpg){: width="486" height="125" }
+_Swiss and French scrapping guide_
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapDocuments/Swiss_French_Scraping_2.jpg){: width="486" height="125" }
+_Swiss and French scrapping guide_
+
+### Tool shaping and measure
+
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapTools/ScrapTools_01.JPG){: width="486" height="125" }
+_Pull Scrap tool_
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapTools/ScrapTools_02.JPG){: width="486" height="125" }
+_Pull Scrap tool_
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapTools/ScrapTools_05.JPG){: width="486" height="125" }
+_Pull Scrap tool_
+
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapTools/ScrapTools_04.JPG){: width="486" height="125" }
+_Scrap Tool grinding edges_
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapTools/ScrapTools_06.JPG){: width="486" height="125" }
+_Scrap Tool grinding edges_
+
+
+### Automatic Scraping Tools
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapMachine/ScrapTools_06.JPG){: width="486" height="125" }
+_An Expensive Biax Automatic Half-Moon pattern_
+
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapMachine/ScrapTools_01.JPG){: width="486" height="125" }
+_My automatic scrap machine restored_
+
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapMachine/ScrapTools_02.jpeg){: width="486" height="125" }
+_My automatic scrap machine restored_
+
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapMachine/ScrapTools_03.jpeg){: width="486" height="125" }
+_My automatic scrap machine restored_
+
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapMachine/ScrapTools_04.jpeg){: width="486" height="125" }
+_My automatic scrap machine restored_
+
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapMachine/ScrapTools_05.jpeg){: width="486" height="125" }
+_My automatic scrap machine restored_
 
 ## Scrap patterns
-![Desktop View](/assets/posts/2024/POST-ID-6/surface_scrapping.jpeg){: width="972" height="250" }
+
+### Half-Moon
+- Half-Moon pattern this is the most hard to archive pattern
+![Desktop View](/assets/posts/2024/POST-ID-6/surface_scrapping.jpeg){: width="486" height="125" }
 _Full screen width and center alignment_
+
+### My Half-Moon and Grid Pattern
+
+- It's very hard to achieve this pattern, but it's worth it.
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapPattern/ScrapPattern_02.jpg){: width="486" height="125" }
+_Grid Pattern_
+
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapPattern/ScrapPattern_03.jpeg){: width="486" height="125" }
+_Grid Pattern After Many Uses_
+
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapPattern/ScrapPattern_01.jpeg){: width="486" height="125" }
+_Half-Moon Pattern_
+
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapPattern/ScrapPattern_04.jpeg){: width="486" height="125" }
+_Half-Moon Pattern_
+
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapPattern/ScrapPattern_01.gif){: width="486" height="125" }
+_Half-Moon Pattern_
+
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapPattern/ScrapPattern_02.gif){: width="486" height="125" }
+_Half-Moon Pattern_
 
 
 ## Final 
-- Scrapping skills development to reaching microns of flatness that could make you understand the principle and how're precision machine are made. Beside i'm considering it as a "let's get wet exercise" and I've learnt alot about the precision world and it's science, I'm quite confident in making a workable DIY Machine that could reach micron of precision.
+- Developing scrapping skills to achieve microns of flatness helps me understand the principles behind precision machine making. Besides, I consider it a 'hands-on exercise' and I've learned a lot about the precision world and its science. I'm quite confident in making a workable DIY machine that can achieve micron-level precision.
 
-> Are you just like I whom scrapping the internet and the cast iron plate?..
+
+> More information from Wiki <https://en.wikipedia.org/wiki/Hand_scraper>
 {: .prompt-info }
 
-> CNC Intergration for Servo
+> Are you just like I whom scrapping the internet and the cast iron plate?..
 {: .prompt-info }

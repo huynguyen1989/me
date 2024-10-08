@@ -97,7 +97,7 @@
     <link rel="stylesheet" href="{{ site.data.origin[type].glightbox.css | relative_url }}">
   {% endif %}
 
-  {% if page.layout == 'gallery' %}
+  {% if page.layout == 'gallery' or page.layout == 'post' %}
     <!-- Gallery Libary Photoswipe -->
     <link rel="stylesheet" href="{{site.baseurl}}/assets/js/photoswipe/photoswipe.css">
     <script src="{{site.baseurl}}/assets/js/photoswipe/photoswipe.umd.min.js"></script>

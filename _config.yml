@@ -196,7 +196,7 @@ defaults:
   - scope:
       path: "assets/artworks"
     values:
-      image: true
+      artworks: true
 
 
 sass:

@@ -42,7 +42,7 @@ debug: true
             </div>
 
             <div class="artworks container pswp-gallery pswp-gallery--single-column" id="gallery">
-                {% assign artworks = site.static_files | where: "image", true %}
+                {% assign artworks = site.static_files | where: "artworks", true %}
                 {% for artwork in artworks %}
                     <a 
                         href="{{site.baseurl}}{{ artwork.path }}" 
