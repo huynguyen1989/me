@@ -18,8 +18,8 @@ image:
 There're many types of solder station from manual to automatic iron cartridge 
 
 ## The needs
-- I really need a micro-small within precise tempture control solder station
-- Which could not damaging electronic components 
+- I really need a micro-small soldering station with precise temperature control, which can prevent damage to electronic components due to prolonged exposure to high temperatures during soldering. From my previous experience soldering the 2SK170 Toshiba transistor, I found that heating it up to 350°C for 5 seconds can reduce its sensitivity.
+
 
 ## List of top solder station 2024
 
