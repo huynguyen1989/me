@@ -85,28 +85,30 @@ _My automatic scrap machine restored_
 
 ### Half-Moon
 - Half-Moon pattern this is the most hard to archive pattern
+
 ![Desktop View](/assets/posts/2024/POST-ID-6/surface_scrapping.jpeg){: width="486" height="125" }
 _Full screen width and center alignment_
 
 ### My Half-Moon and Grid Pattern
 
 - It's very hard to achieve this pattern, but it's worth it.
-![Desktop View](/assets/posts/2024/POST-ID-6/ScrapPattern/ScrapPattern_02.jpg){: width="486" height="125" }
+
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapPattern/ScrapPattern_02.jpg){: width="972" height="250" }
 _Grid Pattern_
 
-![Desktop View](/assets/posts/2024/POST-ID-6/ScrapPattern/ScrapPattern_03.jpeg){: width="486" height="125" }
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapPattern/ScrapPattern_03.jpeg){: width="972" height="250" }
 _Grid Pattern After Many Uses_
 
-![Desktop View](/assets/posts/2024/POST-ID-6/ScrapPattern/ScrapPattern_01.jpeg){: width="486" height="125" }
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapPattern/ScrapPattern_01.jpeg){: width="972" height="250" }
 _Half-Moon Pattern_
 
-![Desktop View](/assets/posts/2024/POST-ID-6/ScrapPattern/ScrapPattern_04.jpeg){: width="486" height="125" }
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapPattern/ScrapPattern_04.jpeg){: width="972" height="250" }
 _Half-Moon Pattern_
 
-![Desktop View](/assets/posts/2024/POST-ID-6/ScrapPattern/ScrapPattern_01.gif){: width="486" height="125" }
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapPattern/ScrapPattern_01.gif){: width="972" height="250" }
 _Half-Moon Pattern_
 
-![Desktop View](/assets/posts/2024/POST-ID-6/ScrapPattern/ScrapPattern_02.gif){: width="486" height="125" }
+![Desktop View](/assets/posts/2024/POST-ID-6/ScrapPattern/ScrapPattern_02.gif){: width="972" height="250" }
 _Half-Moon Pattern_
 
 
