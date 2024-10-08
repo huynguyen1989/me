@@ -9,7 +9,7 @@ pin: false
 math: false
 mermaid: false
 image:
-  path: /assets/posts/2024/POST-ID-6/ScrapPattern/ScrapPattern_01.gif
+  path: /assets/posts/2024/POST-ID-6/ScrapPattern/ScrapPattern_02.gif
   alt: My scrapping pattern.
 ---
 ## Are you just like I whom scrapping the internet and the cast iron plate?
