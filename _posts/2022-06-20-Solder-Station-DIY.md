@@ -9,7 +9,7 @@ pin: false
 math: false
 mermaid: false
 image:
-  path: /assets/posts/2024/POST-ID-7/watch_circuit.jpg
+  path: /assets/posts/2024/POST-ID-7/ESP32-Attempting.png
   alt: Unknow PCB.
 ---
 
