@@ -9,7 +9,7 @@ pin: false
 math: false
 mermaid: false
 image:
-  path: /assets/posts/2024/POST-ID-7/720p_ESP32_Attempting
+  path: /assets/posts/2024/POST-ID-7/720p_ESP32_Attempting.gif
   alt: ESP32 Attempting.
 ---
 
