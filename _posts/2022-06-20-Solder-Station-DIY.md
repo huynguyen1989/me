@@ -9,8 +9,8 @@ pin: false
 math: false
 mermaid: false
 image:
-  path: /assets/posts/2024/POST-ID-7/ESP32-Attempting.png
-  alt: Unknow PCB.
+  path: /assets/posts/2024/POST-ID-7/720p_ESP32_Attempting
+  alt: ESP32 Attempting.
 ---
 
 <!-- POST-ID-7 -->
