@@ -10,11 +10,11 @@ math: false
 mermaid: false
 image:
   path: /assets/posts/2024/POST-ID-9/lathe_turning.gif
-  alt: My Air Compressor.
+  alt: Lathe Turning.
 ---
 
 <!-- POST-ID-9 -->
-## Hasegawa Lathe
+## Hasegawa High-Precision Lathe
 
 
 > To be continue..

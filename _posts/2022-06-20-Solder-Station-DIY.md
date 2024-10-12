@@ -20,25 +20,25 @@ image:
 ## List of top solder station 2024
 
 ### Weller
-• Weller WE1010: A high-end solder station with a digital temperature control and a wide temperature range. It also features a large LCD display and a variety of tips and accessories. ($300-$400)
-• Weller WT1010: A high-end solder station with a digital temperature control and a wide temperature range. It also features a large LCD display and a variety of tips and accessories. ($400-$500)
+- Weller WE1010: A high-end solder station with a digital temperature control and a wide temperature range. It also features a large LCD display and a variety of tips and accessories. ($300-$400)
+- Weller WT1010: A high-end solder station with a digital temperature control and a wide temperature range. It also features a large LCD display and a variety of tips and accessories. ($400-$500)
 ...
 
 ### JBC
-• JBC BT250: A high-end solder station with advanced features like temperature control, sleep mode, and calibration options. It also has a large LCD display and a ergonomic design. ($500-$600)
-• JBC BT225 HF: A high-frequency solder station with a frequency range of 40-120 kHz and a temperature range of 150-450°C. ($400-$500)
-• JBC BT220 HF: A high-frequency solder station with a frequency range of 40-120 kHz and a temperature range of 150-450°C. ($350-$450)
+- JBC BT250: A high-end solder station with advanced features like temperature control, sleep mode, and calibration options. It also has a large LCD display and a ergonomic design. ($500-$600)
+- JBC BT225 HF: A high-frequency solder station with a frequency range of 40-120 kHz and a temperature range of 150-450°C. ($400-$500)
+- JBC BT220 HF: A high-frequency solder station with a frequency range of 40-120 kHz and a temperature range of 150-450°C. ($350-$450)
 ...
 
 ### Hakko
-• Hakko FX-951 HF: A high-frequency solder station with a frequency range of 40-120 kHz and a temperature range of 150-450°C. ($350-$450)
-• Hakko FX-951-66 HF: A high-frequency solder station with a frequency range of 40-120 kHz and a temperature range of 150-450°C. ($450-$550)
-• Hakko FX-951: A high-performance solder station with a digital temperature control and a wide temperature range. It also features a large LCD display and a variety of tips and accessories. ($350-$450)
+- Hakko FX-951 HF: A high-frequency solder station with a frequency range of 40-120 kHz and a temperature range of 150-450°C. ($350-$450)
+- Hakko FX-951-66 HF: A high-frequency solder station with a frequency range of 40-120 kHz and a temperature range of 150-450°C. ($450-$550)
+- Hakko FX-951: A high-performance solder station with a digital temperature control and a wide temperature range. It also features a large LCD display and a variety of tips and accessories. ($350-$450)
 ...
 
 ### 
-• Ersa i-CON 1 HF: A high-frequency solder station with a frequency range of 40-120 kHz and a temperature range of 150-450°C. ($600-$700)
-• Kurtz Ersa i-CON 2 HF: A high-frequency solder station with a frequency range of 40-120 kHz and a temperature range of 150-450°C. ($700-$800)
+- Ersa i-CON 1 HF: A high-frequency solder station with a frequency range of 40-120 kHz and a temperature range of 150-450°C. ($600-$700)
+- Kurtz Ersa i-CON 2 HF: A high-frequency solder station with a frequency range of 40-120 kHz and a temperature range of 150-450°C. ($700-$800)
 
 ## Analog and digital solder stations - How's it works?
 ### Analog Solder Station
