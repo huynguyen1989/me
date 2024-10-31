@@ -197,6 +197,11 @@ defaults:
       path: "assets/artworks"
     values:
       artworks: true
+  - scope:
+      path: "assets/resume"
+    values:
+      resume: true
+  
 
 
 sass:
